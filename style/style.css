@@ -73,13 +73,13 @@ body{
 }
 .main_input{
     height: 45px;
-    width: 464px;
+    width: 268px;
     border: 1px solid #6F2CFF;
     border-radius: 28px;
     padding-left:  26px;
 }
 .main_input::placeholder{
-    ont-size: 15px;
+    font-size: 15px;
     line-height: 21px;
     color: rgba(0, 0, 0, 0.27);
 
